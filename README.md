@@ -1,10 +1,10 @@
-# Loan Risk Analysis - MLZilla Competition
+# Credit Worthiness Analysis - MLZilla Competition
 ### Secured 2nd position among a pool of 500 students nationally.
 ### Detailed steps of model creation are given in the ppt.
 
 ## Problem Statement
 
-Credit scoring and loan sanctioning are critical processes in the lending industry. Credit scoring assesses an individual's or business's creditworthiness using a numerical credit score, helping lenders decide on loan approvals and terms. Loan sanctioning involves evaluating loan applications, considering creditworthiness, income, employment, and other factors, ultimately determining loan approval and terms.
+Credit scoring and loan sanctioning are critical processes in the lending industry. Credit scoring assesses an individual's or business's creditworthiness using a numerical credit score, helping lenders decide on loan approvals and terms. Loan sanctioning involves evaluating loan applications, considering creditworthiness, income, employment, and other factors, and ultimately determining loan approval and terms.
 
 Machine learning is increasingly applied to these processes, utilizing historical data to predict loan default and assess borrower creditworthiness. Participants can use the provided dataset creatively to benefit the financial institution, employing various data modeling and machine learning tools and techniques as long as they are justified.
 
